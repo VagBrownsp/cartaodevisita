@@ -17,6 +17,11 @@ h2 {
   text-align: center;
 }
 
+.elemento {
+  will-change: transform;
+  transform: translateZ(0);
+}
+
 /* Grid */
 .catalogo {
   display: grid;
